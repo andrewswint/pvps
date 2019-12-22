@@ -26,3 +26,25 @@ html {
 .icons:hover {
     background-color: aqua;
 }
+
+.meet-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0 0 0;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border: none;
+}
+
+.card-img-top {
+    border-radius: 50%;
+    width: 80%;
+    height: 80%;
+}
