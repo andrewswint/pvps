@@ -24,8 +24,8 @@ html {
     font-size: 2em;
     background-color: rgba(219, 219, 219, 0.41);
     border-radius: 50%;
-    width: 10vw;
-    height: 10vh;
+    width: 5rem;
+    height: 5rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,6 +63,8 @@ html {
 }
 
 .footer {
+    color: white;
+    background-color: black;
     text-align: center;
     width: 100%;
 }
