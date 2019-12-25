@@ -2,6 +2,14 @@ html {
     display: block;
 }
 
+.highlight {
+    background-color: aqua;
+}
+
+.text-color {
+    color: aqua;
+}
+
 .jumbotron-splash {
     height: 85vh;
 }
@@ -27,6 +35,11 @@ html {
     background-color: aqua;
 }
 
+.offer-container {
+    background-color: black;
+    color: #fff;
+}
+
 .meet-container {
     display: flex;
     flex-wrap: wrap;
@@ -47,4 +60,9 @@ html {
     border-radius: 50%;
     width: 80%;
     height: 80%;
+}
+
+.footer {
+    text-align: center;
+    width: 100%;
 }
